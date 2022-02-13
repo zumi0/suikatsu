@@ -1,0 +1,821 @@
+[
+  {
+    "name": "サンシャイン水族館",
+    "address": "東京都豊島区東池袋3サンシャインシティ・ワールドインポートマートビル屋上（10階）",
+    "url": "http://www.sunshinecity.co.jp/",
+    "lat": 35.7288557,
+    "lng": 139.7200134
+  },
+  {
+    "name": "広島マリホ水族館",
+    "address": "広島県広島市西区観音新町4丁目14-35",
+    "url": "http://mariho-aquarium.com/",
+    "lat": 34.3610433,
+    "lng": 132.415923
+  },
+  {
+    "name": "千歳 サケのふるさと館",
+    "address": "北海道千歳市花園2-312 道の駅「サーモンパーク千歳」内",
+    "url": "http://www.city.chitose.hokkaido.jp/tourist/salmon/",
+    "lat": 42.8340763,
+    "lng": 141.6589805
+  },
+  {
+    "name": "おたる水族館",
+    "address": "北海道小樽市祝津3-303",
+    "url": "http://otaru-aq.jp/",
+    "lat": 43.2369677,
+    "lng": 141.0118175
+  },
+  {
+    "name": "登別マリンパークニクス",
+    "address": "北海道登別市登別東町１-22",
+    "url": "http://www.nixe.co.jp/",
+    "lat": 42.4550475,
+    "lng": 141.1827442
+  },
+  {
+    "name": "標津サーモン科学館",
+    "address": "北海道標津郡標津町北一条西6丁目1-1-1 標津サーモンパーク内",
+    "url": "http://www.shibetsu-salmon.org/",
+    "lat": 43.659719,
+    "lng": 145.1158841
+  },
+  {
+    "name": "おんねゆ温泉・山の水族館　北の大地の水族館",
+    "address": "北海道北見市留辺蘂町松山1番地4",
+    "url": "http://onneyu-aq.com/",
+    "lat": 43.7535696,
+    "lng": 143.5006597
+  },
+  {
+    "name": "サンピアザ水族館",
+    "address": "北海道札幌市厚別区厚別中央2条5-7-5",
+    "url": "http://www3.ocn.ne.jp/~sunpi-aq/",
+    "lat": 43.0369263,
+    "lng": 141.471762
+  },
+  {
+    "name": "美深町チョウザメ館",
+    "address": "北海道中川郡美深町字紋穂内",
+    "url": "http://www.bifuka-t.jp/sise/tyouzame.html",
+    "lat": 44.5658733,
+    "lng": 142.3511644
+  },
+  {
+    "name": "氷海展望塔 オホーツクタワー",
+    "address": "北海道紋別市海洋公園1",
+    "url": "http://www.o-tower.co.jp/",
+    "lat": 44.336955,
+    "lng": 143.3810268
+  },
+  {
+    "name": "市立 室蘭水族館",
+    "address": "北海道室蘭市祝津町3-3-12",
+    "url": "http://www.kujiran.net/aquarium/",
+    "lat": 42.3399881,
+    "lng": 140.9503115
+  },
+  {
+    "name": "稚内市立 ノシャップ寒流水族館",
+    "address": "北海道稚内市ノシャップ2-2-17",
+    "url": "http://www.city.wakkanai.hokkaido.jp/sisetu/suizokukan/",
+    "lat": 45.4492716,
+    "lng": 141.6449214
+  },
+  {
+    "name": "札幌市豊平川さけ科学館",
+    "address": "北海道札幌市南区真駒内公園2-1",
+    "url": "http://www.sapporo-park.or.jp/sake/",
+    "lat": 43.0010546,
+    "lng": 141.3432514
+  },
+  {
+    "name": "旭川市 旭山動物園",
+    "address": "北海道旭川市東旭川町倉沼",
+    "url": "http://www5.city.asahikawa.hokkaido.jp/asahiyamazoo/",
+    "lat": 43.7591494,
+    "lng": 142.4871813
+  },
+  {
+    "name": "青森県営 浅虫水族館",
+    "address": "青森県青森市大字浅虫字馬場山1-25",
+    "url": "http://www.asamushi-aqua.com/",
+    "lat": 40.8972349,
+    "lng": 140.8628114
+  },
+  {
+    "name": "久慈地下水族科学館もぐらんぴあ",
+    "address": "岩手県久慈市侍浜町字麦生1-43-7",
+    "url": "",
+    "lat": 40.2212805,
+    "lng": 141.8158238
+  },
+  {
+    "name": "男鹿水族館 GAO",
+    "address": "秋田県男鹿市戸賀塩浜",
+    "url": "http://www.gao-aqua.jp/",
+    "lat": 39.9376333,
+    "lng": 139.7144465
+  },
+  {
+    "name": "マリンピア松島水族館",
+    "address": "宮城県宮城郡松島町松島字浪打浜16",
+    "url": "http://www.marinepia.co.jp/",
+    "lat": 38.3677702,
+    "lng": 141.0604316
+  },
+  {
+    "name": "鶴岡市立 加茂水族館　クラゲドリーム館",
+    "address": "山形県鶴岡市大字今泉字大久保656",
+    "url": "http://kamo-kurage.jp/",
+    "lat": 38.7623224,
+    "lng": 139.7249208
+  },
+  {
+    "name": "アクアマリンふくしま（ふくしま海洋科学館）",
+    "address": "福島県いわき市小名浜字辰巳町50",
+    "url": "http://www.marine.fks.ed.jp/",
+    "lat": 36.9424233,
+    "lng": 140.9005246
+  },
+  {
+    "name": "いなわしろ淡水魚館",
+    "address": "福島県耶麻郡猪苗代町大字長田字東中丸344-4",
+    "url": "http://www.inawashiro.or.jp/institution/aquarium.php",
+    "lat": 37.5610461,
+    "lng": 140.0749096
+  },
+  {
+    "name": "気仙沼 リアスシャークミュージアム",
+    "address": "宮城県気仙沼市魚市場前7-13 海の市２F",
+    "url": "http://www.uminoichi.com/rsm.html",
+    "lat": 38.9000427,
+    "lng": 141.5798063
+  },
+  {
+    "name": "陸前高田市 海と貝のミュージアム",
+    "address": "岩手県陸前高田市高田町字下宿55",
+    "url": "http://www.city.rikuzentakata.iwate.jp/kakuka/umikai/",
+    "lat": 39.0088797,
+    "lng": 141.6451444
+  },
+  {
+    "name": "アクアワールド大洗水族館",
+    "address": "茨城県東茨城郡大洗町磯浜町8252-3",
+    "url": "http://www.aquaworld-oarai.com/",
+    "lat": 36.3334965,
+    "lng": 140.5939835
+  },
+  {
+    "name": "かすみがうら市水族館",
+    "address": "茨城県かすみがうら市坂910-1",
+    "url": "",
+    "lat": 36.0716045,
+    "lng": 140.3760379
+  },
+  {
+    "name": "山方淡水魚館",
+    "address": "茨城県常陸大宮市山方535",
+    "url": "",
+    "lat": 36.6257305,
+    "lng": 140.4039926
+  },
+  {
+    "name": "栃木県 なかがわ水遊園 おもしろ魚館",
+    "address": "栃木県那須郡湯津上村佐良土2686",
+    "url": "http://www.aqua.pref.tochigi.jp/",
+    "lat": 36.7902982,
+    "lng": 140.129707
+  },
+  {
+    "name": "群馬県水産学習館",
+    "address": "群馬県館林市花山町3181",
+    "url": "http://www.msksite.net/tatebayashi/suisan/suisantop.htm",
+    "lat": 36.241961,
+    "lng": 139.5517491
+  },
+  {
+    "name": "鴨川シーワールド",
+    "address": "千葉県鴨川市東町1464-18",
+    "url": "http://www.kamogawa-seaworld.jp/",
+    "lat": 35.1159876,
+    "lng": 140.1204725
+  },
+  {
+    "name": "犬吠埼マリンパーク",
+    "address": "千葉県銚子市犬吠埼9575-1",
+    "url": "http://www16.ocn.ne.jp/~inuboo/",
+    "lat": 35.7071504,
+    "lng": 140.8651848
+  },
+  {
+    "name": "さいたま水族館",
+    "address": "埼玉県羽生市三田ヶ谷宝蔵寺751-1",
+    "url": "http://www.parks.or.jp/suizokukan/",
+    "lat": 36.1710336,
+    "lng": 139.5979644
+  },
+  {
+    "name": "東京都 葛西臨海水族園",
+    "address": "東京都江戸川区臨海町6-2-3",
+    "url": "http://www.tokyo-zoo.net/zoo/kasai/",
+    "lat": 35.6399455,
+    "lng": 139.8622127
+  },
+  {
+    "name": "サンシャイン水族館",
+    "address": "東京都豊島区東池袋3サンシャインシティ・ワールドインポートマートビル屋上（10階）",
+    "url": "http://www.sunshinecity.co.jp/",
+    "lat": 35.7288557,
+    "lng": 139.7200134
+  },
+  {
+    "name": "エプソン品川アクアスタジアム",
+    "address": "東京都港区高輪4-10-30",
+    "url": "http://www.princehotels.co.jp/shinagawa/aquastadium/",
+    "lat": 35.6282891,
+    "lng": 139.736996
+  },
+  {
+    "name": "しながわ水族館",
+    "address": "東京都品川区勝島3-2-1（しながわ区民公園内）",
+    "url": "http://www.aquarium.gr.jp/",
+    "lat": 35.5921128,
+    "lng": 139.7390202
+  },
+  {
+    "name": "井の頭自然文化園 水生物館",
+    "address": "東京都武蔵野市御殿山1-17-6",
+    "url": "http://www.tokyo-zoo.net/zoo/ino/",
+    "lat": 35.7008483,
+    "lng": 139.5727894
+  },
+  {
+    "name": "東京都 恩賜上野動物園 両生爬虫類館",
+    "address": "東京都台東区上野公園9-83",
+    "url": "http://www.tokyo-zoo.net/zoo/ueno/",
+    "lat": 35.7150085,
+    "lng": 139.7696008
+  },
+  {
+    "name": "築地市場 おさかな普及センター資料館",
+    "address": "東京都中央区築地6-20-5",
+    "url": "http://www.tsukiji-market.or.jp/osakana/",
+    "lat": 35.6627178,
+    "lng": 139.7731952
+  },
+  {
+    "name": "東京タワー水族館",
+    "address": "東京都港区芝公園4-2-8 東京タワー1階",
+    "url": "http://www.suizokukan.net/index.htm",
+    "lat": 35.6585696,
+    "lng": 139.745484
+  },
+  {
+    "name": "新江ノ島水族館（エノスイ）",
+    "address": "神奈川県藤沢市片瀬海岸2-19-1",
+    "url": "http://www.enosui.com/",
+    "lat": 35.3096763,
+    "lng": 139.4798936
+  },
+  {
+    "name": "横浜・八景島シーパラダイス",
+    "address": "神奈川県横浜市金沢区八景島",
+    "url": "http://www.seaparadise.co.jp/",
+    "lat": 35.3375022,
+    "lng": 139.6465234
+  },
+  {
+    "name": "京急油壺マリンパーク",
+    "address": "神奈川県三浦市三崎町小網代1082",
+    "url": "http://www.aburatsubo.co.jp/",
+    "lat": 35.1615741,
+    "lng": 139.6124123
+  },
+  {
+    "name": "相模原市立 相模川ふれあい科学館",
+    "address": "神奈川県相模原市田名91-2",
+    "url": "http://www.sagamigawa-fureai.jp/",
+    "lat": 35.5552585,
+    "lng": 139.3399364
+  },
+  {
+    "name": "箱根園水族館",
+    "address": "神奈川県足柄下郡箱根町元箱根139",
+    "url": "http://www.princehotels.co.jp/amuse/hakone-en/",
+    "lat": 35.2121831,
+    "lng": 139.0094144
+  },
+  {
+    "name": "よしもとおもしろ水族館",
+    "address": "神奈川県横浜市中区山下町144 チャイナスクエアビル3F（横浜中華街中華大通り沿い）",
+    "url": "http://www.omoshirosuizokukan.com/",
+    "lat": 35.4429438,
+    "lng": 139.6445325
+  },
+  {
+    "name": "山梨県立 富士湧水の里水族館",
+    "address": "山梨県南都留郡忍野村忍草3098-1",
+    "url": "http://www.pref.yamanashi.jp/nouseibu/sakana/",
+    "lat": 35.4561382,
+    "lng": 138.8245335
+  },
+  {
+    "name": "板橋区立 熱帯環境植物園 グリーンドームねったいかん",
+    "address": "東京都板橋区高島平8-29-2",
+    "url": "http://www.itanetu.com/",
+    "lat": 35.7918987,
+    "lng": 139.6640763
+  },
+  {
+    "name": "足立区生物園",
+    "address": "東京都足立区保木間2-17-1",
+    "url": "http://www.adachi.ne.jp/users/seibutu/",
+    "lat": 35.7923154,
+    "lng": 139.8068933
+  },
+  {
+    "name": "よこはま動物園 ズーラシア園",
+    "address": "横浜市旭区上白根町1175",
+    "url": "http://www2.zoorasia.org/",
+    "lat": 35.4942375,
+    "lng": 139.5273381
+  },
+  {
+    "name": "六本木ヒルズ スカイアクアリウム （夏季限定）",
+    "address": "東京都六本木6-10-1　六本木ヒルズ森タワー52F",
+    "url": "http://www.roppongihills.com/tcv/",
+    "lat": 35.6607345,
+    "lng": 139.7292066
+  },
+  {
+    "name": "新潟市水族館 マリンピア日本海",
+    "address": "新潟県新潟市西船見町5932-445",
+    "url": "http://www.marinepia.or.jp/",
+    "lat": 37.9237441,
+    "lng": 139.0280763
+  },
+  {
+    "name": "寺泊水族博物館",
+    "address": "新潟県三島郡寺泊町大字寺泊字花立9353-158",
+    "url": "http://www.aquarium-teradomari.jp/",
+    "lat": 37.6338712,
+    "lng": 138.7603547
+  },
+  {
+    "name": "上越市立 水族博物館",
+    "address": "新潟県上越市西本町4-19-27",
+    "url": "http://www.city.joetsu.niigata.jp/inform/sisetu/aquarium/",
+    "lat": 37.1740944,
+    "lng": 138.2340087
+  },
+  {
+    "name": "イヨボヤ会館",
+    "address": "新潟県村上市塩町13-34",
+    "url": "http://www.iwafune.ne.jp/~iyoboya/",
+    "lat": 38.2278354,
+    "lng": 139.4714803
+  },
+  {
+    "name": "魚津水族館",
+    "address": "富山県魚津市三ヶ1390",
+    "url": "http://www.city.uozu.toyama.jp/suizoku/",
+    "lat": 36.7983642,
+    "lng": 137.3881941
+  },
+  {
+    "name": "のとじま水族館",
+    "address": "石川県七尾市能登島曲町15部40",
+    "url": "http://www.notoaqua.jp/",
+    "lat": 37.1491667,
+    "lng": 136.9822222
+  },
+  {
+    "name": "越前松島水族館",
+    "address": "福井県坂井郡三国町崎",
+    "url": "http://www.echizen-aquarium.com/",
+    "lat": 36.251114,
+    "lng": 136.144867
+  },
+  {
+    "name": "蓼科アミューズメント水族館",
+    "address": "長野県茅野市北山4035-2409（北八ヶ岳ロープウェイ隣）",
+    "url": "http://aquacia.blog.fc2.com/",
+    "lat": 36.0679898,
+    "lng": 138.3014528
+  },
+  {
+    "name": "伊豆・三津シーパラダイス",
+    "address": "静岡県沼津市内浦長浜3-1",
+    "url": "http://www.seapara.jp/",
+    "lat": 35.0195002,
+    "lng": 138.8960105
+  },
+  {
+    "name": "下田海中水族館",
+    "address": "静岡県下田市3-22-31",
+    "url": "http://www.shimoda-aquarium.com/",
+    "lat": 34.66609,
+    "lng": 138.945952
+  },
+  {
+    "name": "あわしまマリンパーク",
+    "address": "静岡県沼津市内浦重寺186",
+    "url": "http://www.marinepark.jp/",
+    "lat": 35.0330079,
+    "lng": 138.8935373
+  },
+  {
+    "name": "東海大学海洋科学博物館",
+    "address": "静岡県静岡市清水区三保2389",
+    "url": "http://www.umi.muse-tokai.jp/",
+    "lat": 35.0190835,
+    "lng": 138.518256
+  },
+  {
+    "name": "伊豆アンディランド",
+    "address": "静岡県賀茂郡河津町菖蒲沢",
+    "url": "http://www.izuandyland.com/",
+    "lat": 34.7280432,
+    "lng": 138.9928255
+  },
+  {
+    "name": "名古屋港水族館",
+    "address": "愛知県名古屋市港区港町1-3",
+    "url": "http://www.nagoyaaqua.jp/",
+    "lat": 35.0905088,
+    "lng": 136.8784377
+  },
+  {
+    "name": "名古屋市東山動物園 世界のメダカ館・自然動物館",
+    "address": "愛知県名古屋市千種区東山元町3-70",
+    "url": "http://www.higashiyama.city.nagoya.jp/",
+    "lat": 35.1533684,
+    "lng": 136.9773178
+  },
+  {
+    "name": "南知多ビーチランド",
+    "address": "愛知県知多郡美浜町奥田428-1",
+    "url": "http://www.beachland.jp/",
+    "lat": 34.7838332,
+    "lng": 136.8688931
+  },
+  {
+    "name": "蒲郡市 竹島水族館",
+    "address": "愛知県蒲郡市竹島町1-6",
+    "url": "http://www.city.gamagori.lg.jp/site/takesui/",
+    "lat": 34.8163283,
+    "lng": 137.2320129
+  },
+  {
+    "name": "碧南海浜水族館",
+    "address": "愛知県碧南市浜町2-3",
+    "url": "http://www.city.hekinan.aichi.jp/aquarium/",
+    "lat": 34.8790027,
+    "lng": 136.981573
+  },
+  {
+    "name": "豊橋総合動植物公園 のんほいパーク",
+    "address": "豊橋市大岩町字大穴1-238",
+    "url": "http://www.toyohaku.gr.jp/tzb/",
+    "lat": 34.7224222,
+    "lng": 137.4322468
+  },
+  {
+    "name": "赤塚山公園 淡水魚水族館ぎょぎょランド",
+    "address": "愛知県豊川市市田町東堤上1-30",
+    "url": "",
+    "lat": 34.8469241,
+    "lng": 137.3598375
+  },
+  {
+    "name": "岐阜県世界淡水魚水族館 アクア・トトぎふ",
+    "address": "岐阜県各務原市川島笠田町1453",
+    "url": "http://www.aquatotto.com/",
+    "lat": 35.3718265,
+    "lng": 136.8102261
+  },
+  {
+    "name": "森の水族館",
+    "address": "岐阜県大野郡丹生川村根方532",
+    "url": "http://norikura.com/aquarium/",
+    "lat": 36.2101602,
+    "lng": 136.8679395
+  },
+  {
+    "name": "鳥羽水族館",
+    "address": "三重県鳥羽市鳥羽3-3-6",
+    "url": "http://www.aquarium.co.jp/",
+    "lat": 34.482343,
+    "lng": 136.844945
+  },
+  {
+    "name": "二見シーパラダイス",
+    "address": "三重県伊勢市二見町江580",
+    "url": "http://www.futami-seaparadise.com/",
+    "lat": 34.5075639,
+    "lng": 136.7900334
+  },
+  {
+    "name": "志摩マリンランド",
+    "address": "三重県志摩市阿児町賢島",
+    "url": "http://www.isesima.com/M-rand.htm",
+    "lat": 34.3082116,
+    "lng": 136.8168086
+  },
+  {
+    "name": "日本サンショウウオセンター",
+    "address": "三重県名張市赤目町長坂861-2",
+    "url": "http://www.akame48taki.jp/",
+    "lat": 34.5633269,
+    "lng": 136.0856305
+  },
+  {
+    "name": "熱川バナナワニ園",
+    "address": "静岡県賀茂郡東伊豆町奈良本1253-10",
+    "url": "http://www.i-younet.ne.jp/~wanien/",
+    "lat": 34.8164627,
+    "lng": 139.067496
+  },
+  {
+    "name": "滋賀県立 琵琶湖博物館",
+    "address": "滋賀県草津市下物町1091",
+    "url": "http://www.lbm.go.jp/",
+    "lat": 35.0730509,
+    "lng": 135.9399398
+  },
+  {
+    "name": "丹後 魚っ知館（うおっちかん）",
+    "address": "京都府宮津市小田宿野1001",
+    "url": "http://www.kepco.co.jp/pr/miyazu/",
+    "lat": 35.5561746,
+    "lng": 135.2552837
+  },
+  {
+    "name": "海遊館",
+    "address": "大阪府大阪市港区海岸通1",
+    "url": "http://www.kaiyukan.com/",
+    "lat": 34.6537053,
+    "lng": 135.4300998
+  },
+  {
+    "name": "水道記念館",
+    "address": "大阪府大阪市東淀川区柴島1-3-1",
+    "url": "",
+    "lat": 34.7244552,
+    "lng": 135.5054373
+  },
+  {
+    "name": "かわいい水族館",
+    "address": "大阪府大阪市北区芝田1-1-3 阪急三番街北館１階",
+    "url": "",
+    "lat": 34.7057974,
+    "lng": 135.4983296
+  },
+  {
+    "name": "神戸市立 須磨海浜水族園",
+    "address": "兵庫県神戸市須磨区若宮町1-3-5",
+    "url": "http://sumasui.jp/",
+    "lat": 34.6438884,
+    "lng": 135.12777
+  },
+  {
+    "name": "城崎マリンワールド",
+    "address": "兵庫県豊岡市瀬戸",
+    "url": "http://marineworld.hiyoriyama.co.jp/",
+    "lat": 35.6537177,
+    "lng": 134.8165097
+  },
+  {
+    "name": "姫路市立水族館",
+    "address": "兵庫県姫路市西延末440（手柄山中央公園内）",
+    "url": "http://www.city.himeji.hyogo.jp/aqua/",
+    "lat": 34.8208763,
+    "lng": 134.6736794
+  },
+  {
+    "name": "和歌山県立自然博物館",
+    "address": "和歌山県海南市船尾370-１",
+    "url": "http://www.shizenhaku.wakayama-c.ed.jp/",
+    "lat": 34.1596172,
+    "lng": 135.1927643
+  },
+  {
+    "name": "京都大学白浜水族館",
+    "address": "和歌山県西牟婁郡白浜町459",
+    "url": "http://www.seto.kais.kyoto-u.ac.jp/aquarium/index.html",
+    "lat": 33.6781397,
+    "lng": 135.3481896
+  },
+  {
+    "name": "串本海中公園",
+    "address": "和歌山県東牟婁郡串本町有田1157",
+    "url": "http://www.kushimoto.co.jp/",
+    "lat": 33.4805433,
+    "lng": 135.7446203
+  },
+  {
+    "name": "太地町立 くじらの博物館",
+    "address": "和歌山県東牟婁郡太地町大字太地2934-2",
+    "url": "http://www.town.taiji.wakayama.jp/museum/",
+    "lat": 33.6018789,
+    "lng": 135.9458029
+  },
+  {
+    "name": "すさみ海立 エビとカニの水族館",
+    "address": "和歌山県西牟婁郡すさみ町江住（日本童話の園公園内）",
+    "url": "http://www.aikis.or.jp/~ebikani/",
+    "lat": 33.504753,
+    "lng": 135.5881306
+  },
+  {
+    "name": "アドベンチャーワールド",
+    "address": "和歌山県西牟婁郡白浜町堅田2399",
+    "url": "http://aws-s.com/",
+    "lat": 33.6776857,
+    "lng": 135.3774187
+  },
+  {
+    "name": "玉野市立 玉野海洋博物館",
+    "address": "岡山県玉野市渋川2-6-1",
+    "url": "http://www.city.tamano.okayama.jp/",
+    "lat": 34.4549745,
+    "lng": 133.9053477
+  },
+  {
+    "name": "広島　マリホ水族館",
+    "address": "広島県広島市西区観音新町4丁目14-35",
+    "url": "http://mariho-aquarium.com/",
+    "lat": 34.3610433,
+    "lng": 132.415923
+  },
+  {
+    "name": "宮島水族館",
+    "address": "広島県廿日市市宮島町10-3",
+    "url": "http://www.miyajima-aqua.jp/",
+    "lat": 34.2955107,
+    "lng": 132.3157919
+  },
+  {
+    "name": "島根県立 しまね海洋館ＡＱＵＡＳ（アクアス）",
+    "address": "島根県浜田市久代町1117-2",
+    "url": "http://www.aquas.or.jp/",
+    "lat": 34.9594205,
+    "lng": 132.1444652
+  },
+  {
+    "name": "島根県立 宍道湖自然館 ゴビウス",
+    "address": "島根県平田市園町沖の島1659-5",
+    "url": "http://www2.pref.shimane.jp/gobius/",
+    "lat": 35.4472222,
+    "lng": 132.8644444
+  },
+  {
+    "name": "下関市立 しものせき水族館 海響館",
+    "address": "山口県下関市あるかぽーと6-1",
+    "url": "http://www.kaikyokan.com/",
+    "lat": 33.9541605,
+    "lng": 130.9420421
+  },
+  {
+    "name": "なぎさ水族館",
+    "address": "山口県大島郡周防大島町大字伊保田2111-3",
+    "url": "http://nagisapark.jimdo.com/",
+    "lat": 33.9512145,
+    "lng": 132.4375565
+  },
+  {
+    "name": "新屋島水族館",
+    "address": "香川県高松市屋島東町1785-1",
+    "url": "http://www.new-yashima-aq.com/top/top.html",
+    "lat": 34.358296,
+    "lng": 134.0997984
+  },
+  {
+    "name": "日和佐うみがめ博物館 カレッタ",
+    "address": "徳島県海部郡美波町大浜海岸",
+    "url": "http://www.town.minami.tokushima.jp/umigame/caretta.html",
+    "lat": 33.7331755,
+    "lng": 134.5411183
+  },
+  {
+    "name": "虹の森公園 おさかな館",
+    "address": "愛媛県北宇和郡松野町大字延野々1510-1",
+    "url": "http://www.morinokuni.or.jp/Osakanakan/OSAKANAKAN.HTML",
+    "lat": 33.2296985,
+    "lng": 132.7093926
+  },
+  {
+    "name": "桂浜水族館",
+    "address": "高知県高知市浦戸778",
+    "url": "http://www.katurahama-aq.jp/katurahama/",
+    "lat": 33.4969883,
+    "lng": 133.5736467
+  },
+  {
+    "name": "高知県立 足摺海洋館",
+    "address": "高知県土佐清水市三崎字今芝4032",
+    "url": "http://www.a-sea.net/manbow/",
+    "lat": 32.7914265,
+    "lng": 132.8622546
+  },
+  {
+    "name": "四万十川学遊館 あきついお",
+    "address": "高知県四万十市具同8055-5",
+    "url": "http://www.gakuyukan.com/",
+    "lat": 32.9902429,
+    "lng": 132.9136656
+  },
+  {
+    "name": "マリンワールド海の中道",
+    "address": "福岡県福岡市東区西戸崎18-28",
+    "url": "http://www.marine-world.co.jp/",
+    "lat": 33.660851,
+    "lng": 130.363413
+  },
+  {
+    "name": "大分マリーンパレス水族館 うみたまご",
+    "address": "大分県大分市高崎山下海岸",
+    "url": "http://www.umitamago.jp/",
+    "lat": 33.2599149,
+    "lng": 131.5336245
+  },
+  {
+    "name": "道の駅やよい 番匠おさかな館",
+    "address": "大分県佐伯市弥生大字上小倉898番地1",
+    "url": "http://michinoeki-yayoi.com/osakanakan/index/index.htm",
+    "lat": 32.9644306,
+    "lng": 131.8381771
+  },
+  {
+    "name": "長崎ペンギン水族館",
+    "address": "長崎県長崎市宿町3-16",
+    "url": "http://www1.city.nagasaki.nagasaki.jp/penguin/index.html",
+    "lat": 32.7587478,
+    "lng": 129.946716
+  },
+  {
+    "name": "九十九島水族館「海きらら」",
+    "address": "長崎県佐世保市鹿子前町1055番地",
+    "url": "http://www.pearlsea.jp/umikirara/index.html",
+    "lat": 33.1619414,
+    "lng": 129.678782
+  },
+  {
+    "name": "むつごろう水族館",
+    "address": "長崎県諌早市小野島町2232",
+    "url": "http://www.kantakunosato.co.jp/map/suizokukan/index.htm",
+    "lat": 32.845748,
+    "lng": 130.0910573
+  },
+  {
+    "name": "天草いるかワールド",
+    "address": "熊本県渡市本渡町広瀬996",
+    "url": "http://www.hotel-alegria.jp/dolphin/index.html",
+    "lat": 32.4728972,
+    "lng": 130.2069042
+  },
+  {
+    "name": "わくわく海中水族館 シードーナツ",
+    "address": "熊本県上天草市松島町合津6225-7",
+    "url": "http://www.amakusapearl.com/sea/",
+    "lat": 32.5278878,
+    "lng": 130.4275144
+  },
+  {
+    "name": "高千穂淡水魚水族館",
+    "address": "宮崎県西臼杵郡高千穂町向山60-1",
+    "url": "http://www.town-takachiho.jp/~syoukan/suizokukan/newpage1.htm",
+    "lat": 32.7025313,
+    "lng": 131.3005058
+  },
+  {
+    "name": "すみえファミリー水族館",
+    "address": "宮崎県延岡市須美江町69-1",
+    "url": "http://www15.ocn.ne.jp/~nobekan/recr/sumi/aqua/aqua.html",
+    "lat": 32.6617558,
+    "lng": 131.768071
+  },
+  {
+    "name": "いおワールド かごしま水族館",
+    "address": "鹿児島県鹿児島市本港新町3-1",
+    "url": "http://www.ioworld.jp/",
+    "lat": 31.5959502,
+    "lng": 130.5645811
+  },
+  {
+    "name": "海洋博公園 沖縄美ら海水族館",
+    "address": "沖縄県国頭郡本部町石川424",
+    "url": "http://oki-churaumi.jp/",
+    "lat": 26.694338,
+    "lng": 127.8780131
+  },
+  {
+    "name": "沖縄子どもの国",
+    "address": "沖縄県沖縄市胡屋5-7-1",
+    "url": "http://www.kodomo.city.okinawa.okinawa.jp/",
+    "lat": 26.3273737,
+    "lng": 127.8035013
+  }
+]
