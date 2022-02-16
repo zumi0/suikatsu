@@ -1,21 +1,5 @@
 [
   {
-    "name": "サンシャイン水族館",
-    "address": "東京都豊島区東池袋3サンシャインシティ・ワールドインポートマートビル屋上（10階）",
-    "url": "http://www.sunshinecity.co.jp/",
-    "lat": 35.7288557,
-    "lng": 139.7200134,
-    "state": 1
-  },
-  {
-    "name": "広島マリホ水族館",
-    "address": "広島県広島市西区観音新町4丁目14-35",
-    "url": "http://mariho-aquarium.com/",
-    "lat": 34.3610433,
-    "lng": 132.415923,
-    "state": 0
-  },
-  {
     "name": "千歳 サケのふるさと館",
     "address": "北海道千歳市花園2-312 道の駅「サーモンパーク千歳」内",
     "url": "http://www.city.chitose.hokkaido.jp/tourist/salmon/",
@@ -33,7 +17,7 @@
   },
   {
     "name": "登別マリンパークニクス",
-    "address": "北海道登別市登別東町１-22",
+    "address": "北海道登別市登別東町1-22",
     "url": "http://www.nixe.co.jp/",
     "lat": 42.4550475,
     "lng": 141.1827442,
@@ -48,7 +32,7 @@
     "state": 0
   },
   {
-    "name": "おんねゆ温泉・山の水族館　北の大地の水族館",
+    "name": "おんねゆ温泉・山の水族館 北の大地の水族館",
     "address": "北海道北見市留辺蘂町松山1番地4",
     "url": "http://onneyu-aq.com/",
     "lat": 43.7535696,
@@ -157,7 +141,7 @@
     "url": "http://www.marine.fks.ed.jp/",
     "lat": 36.9424233,
     "lng": 140.9005246,
-    "state": 0
+    "state": 1
   },
   {
     "name": "いなわしろ淡水魚館",
@@ -189,7 +173,7 @@
     "url": "http://www.aquaworld-oarai.com/",
     "lat": 36.3334965,
     "lng": 140.5939835,
-    "state": 0
+    "state": 1
   },
   {
     "name": "かすみがうら市水族館",
@@ -197,7 +181,7 @@
     "url": "9時～16時30分",
     "lat": 36.0716045,
     "lng": 140.3760379,
-    "state": 0
+    "state": 1
   },
   {
     "name": "山方淡水魚館",
@@ -213,7 +197,7 @@
     "url": "http://www.aqua.pref.tochigi.jp/",
     "lat": 36.7902982,
     "lng": 140.129707,
-    "state": 0
+    "state": 1
   },
   {
     "name": "群馬県水産学習館",
@@ -229,7 +213,7 @@
     "url": "http://www.kamogawa-seaworld.jp/",
     "lat": 35.1159876,
     "lng": 140.1204725,
-    "state": 0
+    "state": 1
   },
   {
     "name": "犬吠埼マリンパーク",
@@ -253,7 +237,7 @@
     "url": "http://www.tokyo-zoo.net/zoo/kasai/",
     "lat": 35.6399455,
     "lng": 139.8622127,
-    "state": 0
+    "state": 1
   },
   {
     "name": "サンシャイン水族館",
@@ -261,7 +245,7 @@
     "url": "http://www.sunshinecity.co.jp/",
     "lat": 35.7288557,
     "lng": 139.7200134,
-    "state": 0
+    "state": 1
   },
   {
     "name": "エプソン品川アクアスタジアム",
@@ -317,7 +301,7 @@
     "url": "http://www.enosui.com/",
     "lat": 35.3096763,
     "lng": 139.4798936,
-    "state": 0
+    "state": 1
   },
   {
     "name": "横浜・八景島シーパラダイス",
@@ -325,7 +309,7 @@
     "url": "http://www.seaparadise.co.jp/",
     "lat": 35.3375022,
     "lng": 139.6465234,
-    "state": 0
+    "state": 1
   },
   {
     "name": "京急油壺マリンパーク",
@@ -509,7 +493,7 @@
     "url": "http://www.nagoyaaqua.jp/",
     "lat": 35.0905088,
     "lng": 136.8784377,
-    "state": 0
+    "state": 1
   },
   {
     "name": "名古屋市東山動物園 世界のメダカ館・自然動物館",
@@ -565,7 +549,7 @@
     "url": "http://www.aquatotto.com/",
     "lat": 35.3718265,
     "lng": 136.8102261,
-    "state": 0
+    "state": 1
   },
   {
     "name": "森の水族館",
@@ -581,7 +565,7 @@
     "url": "http://www.aquarium.co.jp/",
     "lat": 34.482343,
     "lng": 136.844945,
-    "state": 0
+    "state": 1
   },
   {
     "name": "二見シーパラダイス",
@@ -613,7 +597,7 @@
     "url": "http://www.i-younet.ne.jp/~wanien/",
     "lat": 34.8164627,
     "lng": 139.067496,
-    "state": 0
+    "state": 1
   },
   {
     "name": "滋賀県立 琵琶湖博物館",
@@ -637,7 +621,7 @@
     "url": "http://www.kaiyukan.com/",
     "lat": 34.6537053,
     "lng": 135.4300998,
-    "state": 0
+    "state": 1
   },
   {
     "name": "水道記念館",
@@ -649,7 +633,7 @@
   },
   {
     "name": "かわいい水族館",
-    "address": "大阪府大阪市北区芝田1-1-3 阪急三番街北館１階",
+    "address": "大阪府大阪市北区芝田1-1-3 阪急三番街北館1階",
     "url": "10時～23時",
     "lat": 34.7057974,
     "lng": 135.4983296,
@@ -681,7 +665,7 @@
   },
   {
     "name": "和歌山県立自然博物館",
-    "address": "和歌山県海南市船尾370-１",
+    "address": "和歌山県海南市船尾370-1",
     "url": "http://www.shizenhaku.wakayama-c.ed.jp/",
     "lat": 34.1596172,
     "lng": 135.1927643,
@@ -709,7 +693,7 @@
     "url": "http://www.town.taiji.wakayama.jp/museum/",
     "lat": 33.6018789,
     "lng": 135.9458029,
-    "state": 0
+    "state": 1
   },
   {
     "name": "すさみ海立 エビとカニの水族館",
@@ -736,7 +720,7 @@
     "state": 0
   },
   {
-    "name": "広島　マリホ水族館",
+    "name": "広島マリホ水族館",
     "address": "広島県広島市西区観音新町4丁目14-35",
     "url": "http://mariho-aquarium.com/",
     "lat": 34.3610433,
@@ -837,7 +821,7 @@
     "url": "http://www.marine-world.co.jp/",
     "lat": 33.660851,
     "lng": 130.363413,
-    "state": 0
+    "state": 1
   },
   {
     "name": "大分マリーンパレス水族館 うみたまご",
