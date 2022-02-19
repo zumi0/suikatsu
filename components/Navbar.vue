@@ -10,6 +10,9 @@
         </template>
         <template #end>
             <b-navbar-item>
+                <NuxtLink to="/">Home</NuxtLink>
+            </b-navbar-item>
+            <b-navbar-item>
                 <NuxtLink to="/map">Map</NuxtLink>
             </b-navbar-item>
             <b-navbar-item>
