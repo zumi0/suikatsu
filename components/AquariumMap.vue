@@ -9,8 +9,8 @@
             :lat-lng="[value.lat, value.lng]"
             >
             <!-- value.state == 1 -> I've been there -->
-            <l-icon v-if="value.state == 1" :icon-url="red_icon_url"></l-icon>
-            <l-icon v-else :icon-url="blue_icon_url"></l-icon>
+            <l-icon v-if="value.state == 1" :icon-url="red_icon_url" :icon-size="icon_size"></l-icon>
+            <l-icon v-else :icon-url="blue_icon_url" :icon-size="icon_size"></l-icon>
             <l-popup>
               <p><a :href="value.url" target="_blank">{{value.name}}</a></p>
             </l-popup>
@@ -44,6 +44,7 @@ export default {
             // at last i have to use .env file and relative paths
             blue_icon_url: 'https://github.com/zumi0/suikatsu/blob/master/assets/fish_blue.png?raw=true',
             red_icon_url: 'https://github.com/zumi0/suikatsu/blob/master/assets/fish_red.png?raw=true',
+            icon_size: [64, 64],
             zoom: 8,
             center: [36.207519, 139.664034],
             tile_url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
