@@ -9,10 +9,25 @@
             v-bind:key="key"
             :lat-lng="[value.lat, value.lng]"
             >
+            <!-- value.state == 1 -> I've been there -->
+            <l-icon v-if="value.state == 1" :icon-url="red_icon_url"></l-icon>
+            <l-icon v-else :icon-url="blue_icon_url"></l-icon>
             <l-popup>
               <p><a :href="value.url" target="_blank">{{value.name}}</a></p>
             </l-popup>
           </l-marker>
+          <l-control id="custom-control" :position="'bottomleft'">
+            <div id="columns">
+              <div id="column">
+                <img :src="blue_icon_url">
+                <p>行ったことがない</p>
+              </div>
+              <div id="column">
+                <img :src="red_icon_url">
+                <p>行ったことがある</p>
+              </div>
+            </div>
+          </l-control>
         </l-map>
       </client-only>
     </div>
@@ -27,9 +42,10 @@ export default {
     data () {
         return {
             aquariums: aquariums,
-            test_icon_url: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png',
-            blue_icon_url: '@/assets/fish_blue.png',
-            blue_icon_size: [64, 64],
+            // icon usls must be urls not relative paths
+            // at last i have to use .env file and relative paths
+            blue_icon_url: 'https://github.com/zumi0/suikatsu/blob/master/assets/fish_blue.png?raw=true',
+            red_icon_url: 'https://github.com/zumi0/suikatsu/blob/master/assets/fish_red.png?raw=true',
             zoom: 8,
             center: [36.207519, 139.664034],
             tile_url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
@@ -37,6 +53,11 @@ export default {
         }
     }
 }
+
+// memo
+// https://vue2-leaflet.netlify.app/quickstart/#cdn
+// https://github.com/schlunsen/nuxt-leaflet/issues/6
+// https://vue2-leaflet.netlify.app/examples/custom-control.html
 </script>
 
 <style scoped>
@@ -44,5 +65,16 @@ export default {
   position: fixed;
   width: 100%;
   height: calc(100% - 64px);
+}
+
+#custom-control {
+  background: #fff;
+  border: 1px solid #aaa;
+  border-radius: 0.1em;
+  color: #000 ;
+}
+
+#column {
+  column-count: 2;
 }
 </style>
