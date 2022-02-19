@@ -1,44 +1,22 @@
 <template>
   <div>
-    <div id="map-wrap">
-      <client-only>
-        <l-map :zoom="zoom" :center="center">
-          <l-tile-layer :url="tile_url" :attribution="attribution"></l-tile-layer>
-          <l-marker 
-            v-for="(value,key) in aquariums"
-            v-bind:key="key"
-            :lat-lng="[value.lat, value.lng]"
-            >
-            <!-- value.state == 1 -> I've been there -->
-            <l-icon v-if="value.state == 1" :icon-url="red_icon_url"></l-icon>
-            <l-icon v-else :icon-url="blue_icon_url"></l-icon>
-            <l-popup>
-              <p><a :href="value.url" target="_blank">{{value.name}}</a></p>
-            </l-popup>
-          </l-marker>
-          <l-control id="custom-control" :position="'bottomleft'">
-            <div id="columns">
-              <div id="column">
-                <img :src="blue_icon_url">
-                <p>行ったことがない</p>
-              </div>
-              <div id="column">
-                <img :src="red_icon_url">
-                <p>行ったことがある</p>
-              </div>
-            </div>
-          </l-control>
-        </l-map>
-      </client-only>
-    </div>
+    <Description :title="title" :subtitle="subtitle" :description="description" />
+    <AquariumMap />
   </div>
 </template>
 
 
 <script>
 import aquariums from '@/assets/aquariums.json'
+import AquariumMap from '~/components/AquariumMap'
+import Description from '~/components/Description'
 
 export default {
+    name: 'map',
+    components: {
+      AquariumMap,
+      Description
+    },
     data () {
         return {
             aquariums: aquariums,
@@ -50,6 +28,9 @@ export default {
             center: [36.207519, 139.664034],
             tile_url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
             attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors',
+            title: 'Map',
+            subtitle: '日本の水族館一覧',
+            description: '日本の水族館を地図上で見ることができます。管理人が行った水族館も見ることができます。'
         }
     }
 }
@@ -64,7 +45,7 @@ export default {
 #map-wrap {
   position: fixed;
   width: 100%;
-  height: calc(100% - 64px);
+  height: calc(100% - 52px);
 }
 
 #custom-control {
