@@ -9,11 +9,11 @@
             </b-navbar-item>
         </template>
         <template #end>
-            <b-navbar-item href="#">
-                Map
+            <b-navbar-item>
+                <NuxtLink to="/map">Map</NuxtLink>
             </b-navbar-item>
-            <b-navbar-item href="#">
-                Blog
+            <b-navbar-item>
+                <NuxtLink to="/blog">Blog</NuxtLink>
             </b-navbar-item>
         </template>
     </b-navbar>
@@ -28,24 +28,4 @@ export default {
 </script>
 
 <style scoped>
-.pagename {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  font-size: 15pt;
-  color: #ffffff;
-}
-.navbar {
-  background-color: #52bba3;
-}
-.my-white {
-  color: #ffffff;
-}
-span {
-  color: #ffffff;
-}
-.compass {
-  height: 20px;
-}
-#navbarBasicExample {
-  background-color: #00d1b2;
-}
 </style>
