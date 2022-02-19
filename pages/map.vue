@@ -1,8 +1,8 @@
 <template>
-  <div>
+  <section>
     <Description :title="title" :subtitle="subtitle" :description="description" />
     <AquariumMap />
-  </div>
+  </section>
 </template>
 
 
@@ -35,7 +35,7 @@ export default {
 #map-wrap {
   position: fixed;
   width: 100%;
-  height: calc(100% - 52px);
+  height: calc(100% - 261px);
 }
 
 #custom-control {
