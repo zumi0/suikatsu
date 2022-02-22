@@ -18,11 +18,11 @@
           <l-control id="custom-control" :position="'bottomleft'">
             <div id="columns">
               <div id="column">
-                <img :src="blue_icon_url">
+                <img :src="blue_icon_url" width="48px">
                 <p>行ったことがない</p>
               </div>
               <div id="column">
-                <img :src="red_icon_url">
+                <img :src="red_icon_url" width="48px">
                 <p>行ったことがある</p>
               </div>
             </div>
@@ -42,9 +42,9 @@ export default {
             aquariums: aquariums,
             // icon usls must be urls not relative paths
             // at last i have to use .env file and relative paths
-            blue_icon_url: 'https://github.com/zumi0/suikatsu/blob/master/assets/fish_blue.png?raw=true',
-            red_icon_url: 'https://github.com/zumi0/suikatsu/blob/master/assets/fish_red.png?raw=true',
-            icon_size: [64, 64],
+            blue_icon_url: require('@/assets/fish_blue.svg'),
+            red_icon_url: require('@/assets/fish_red.svg'),
+            icon_size: [48, 48],
             zoom: 8,
             center: [36.207519, 139.664034],
             tile_url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
