@@ -1,12 +1,12 @@
 <template>
   <div>
     <section class="section">
-      <b-image src="https://picsum.photos/600/400"/>
+      <b-image :src="main_img_url"/>
       <Description :title="title_what" :subtitle="subtitle_what" :description="description_what" />
       <Description :title="title_map" :subtitle="subtitle_map" />
       <Card />
       <Description :title="title_blog" :subtitle="subtitle_blog" />
-      <Card />g
+      <Card />
       <Description :title="title_about" :subtitle="subtitle_about" />
       <!--
       <div class="columns">
@@ -56,7 +56,11 @@ export default {
         subtitle_blog: '水族館の記録一覧',
         title_about: 'About Me',
         subtitle_about: '管理人',
+        main_img_url: require('@/assets/main.png')
       }
     }
 }
+
+// memo
+// https://qiita.com/hiroyukiwk/items/a26e767d193ef8d9155b
 </script>
