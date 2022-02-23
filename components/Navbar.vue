@@ -1,5 +1,5 @@
 <template>
-    <b-navbar class="is-white">
+    <b-navbar class="is-white is-fixed-top">
         <template #brand>
             <b-navbar-item tag="router-link" :to="{ path: '/' }">
                 <img
@@ -26,6 +26,9 @@
 export default {
   name: 'Navbar',
   data () {
+      return {
+          
+      }
   },
 }
 </script>
