@@ -8,6 +8,7 @@
       <Description :title="title_blog" :subtitle="subtitle_blog" />
       <Card />
       <Description :title="title_about" :subtitle="subtitle_about" />
+      <AboutMe />
       <!--
       <div class="columns">
         <card title="Free" icon="github">
@@ -37,13 +38,15 @@
 import Card from '~/components/Card'
 import Description from '~/components/Description'
 import Footer from '~/components/Footer'
+import AboutMe from '~/components/AboutMe'
 
 export default {
     name: 'IndexPage',
     components: {
       Card,
       Footer,
-      Description
+      Description,
+      AboutMe,
     },
     data () {
       return {
